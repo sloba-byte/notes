@@ -6,6 +6,10 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 
 https://github.com/praveenn77/docusaurus-lunr-search
 
+```
+npm i docusaurus-lunr-search  --save
+```
+
 ### Installation
 
 ```
