@@ -182,6 +182,8 @@ gcode:
    - heat to 205 for pla (10 more then regular printing so it's very little resistance)
    - mesure 70mm, extrude 50mm: G91 > G1 E50 F60
    - new_rot_dis = old_rot_dis * (actual_extruded_mm/50)
+6. start.cfg: `Y275.0 replace with Y120.0; draw 1st line`
+
 
 ## Connect Cura to Moonraker
 
